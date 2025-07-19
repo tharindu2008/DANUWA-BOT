@@ -17,7 +17,7 @@ const defaultConfig = {
   ALIVE_MSG: "*Hello👋 PODDA-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyDj5C_l1Qu5gqfT4iowK8rjtQAkuEgCal4", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
+  REMOVE_BG_API_KEY:"paf5f9Pq2doFfgjgP3za1eoj", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
   BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
